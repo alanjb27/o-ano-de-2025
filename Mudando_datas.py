@@ -1,0 +1,5 @@
+print('idade de uma pessoa, nascida em 1998, em 2025')
+print(2025-1998)
+print()
+print('idade de uma pessoa, nascida em 2022, em 2050')
+print(2050-2022)

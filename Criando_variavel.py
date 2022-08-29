@@ -1,0 +1,5 @@
+print('Em que ano você nasceu?')
+nascimento = input()
+nascimento = int(nascimento)
+print('em 2025 sua idade será: ')
+print(2025 - nascimento)
